@@ -1,0 +1,1 @@
+//O carro, pois o encontro de ambos acontecerá após 0,5 horas de percurso, assim, o carro estará há 0,4 horas de ribeirao preto e o caminhão, aproximadamente, 0,75 horas.
